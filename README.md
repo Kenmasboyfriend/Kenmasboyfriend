@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kenmasboyfriend
 - 👀 I’m interested in Kenma and programming
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...
+- 💞️ I have some experience with C, Java and SQL
 - 📫 How to reach me dm me Limu#0052
 
 <!---
